@@ -1,4 +1,4 @@
-# Практика декабрь 2025
+# Управление IT-проектами для корпоративного обучения
 [Инвариантная самостоятельная работа №1](https://github.com/vichnya/IT-Project-Management-for-corporate-training/blob/main/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%20%D0%92.%D0%92.%20%D0%98%D0%A1%D0%A0%201.md)
 
 [Инвариантная самостоятельная работа №2](https://github.com/vichnya/IT-Project-Management-for-corporate-training/blob/main/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%D0%B0%20%D0%92.%D0%92.%20%D0%98%D0%A1%D0%A0%202.md)
